@@ -1,0 +1,15 @@
+C:\Code\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.exe
+C:\Code\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.deps.json
+C:\Code\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.runtimeconfig.json
+C:\Code\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.dll
+C:\Code\calculadora-console\calculadora-console\bin\Debug\net6.0\calculadora-console.pdb
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.csproj.AssemblyReference.cache
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.AssemblyInfoInputs.cache
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.AssemblyInfo.cs
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.csproj.CoreCompileInputs.cache
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.dll
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\refint\calculadora-console.dll
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.pdb
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\calculadora-console.genruntimeconfig.cache
+C:\Code\calculadora-console\calculadora-console\obj\Debug\net6.0\ref\calculadora-console.dll
